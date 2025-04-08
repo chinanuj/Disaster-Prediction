@@ -47,9 +47,8 @@ Our machine learning models have achieved promising results:
     ├── Fire Detection/                # Wildfire detection model
     ├── Flood detection/               # Flood prediction model
     ├── Tornado Detection/             # Tornado prediction model
-    ├── docs/
-    │   ├── Report_dc_2.pdf            # Detailed project report
-    │   └── Project_Presentation.pptx  # Project presentation slides
+    ├── Report_dc_2.pdf            # Detailed project report
+    ├── Project_Presentation.pptx  # Project presentation slides
     ├── Live_Weather_Dashboard.py      # Python script for dashboard
     ├── Live_Weather_Dashboard.mp4     # Video demo of the dashboard
     ├── LICENSE                        # Apache-2.0 license
