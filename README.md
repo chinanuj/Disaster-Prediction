@@ -1,5 +1,6 @@
 # Natural Disaster Prediction Using Machine Learning
 
+![Image](https://github.com/user-attachments/assets/6b77c463-1acc-4f63-943e-67d3f41cc2fd)
 
 ## 📋 Overview
 
