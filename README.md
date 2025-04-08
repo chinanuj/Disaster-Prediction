@@ -1,6 +1,5 @@
 # Natural Disaster Prediction Using Machine Learning
 
-![Project Banner](/api/placeholder/800/200)
 
 ## 📋 Overview
 
@@ -60,7 +59,7 @@ Our machine learning models have achieved promising results:
 
 A video demonstration of the project's live weather dashboard is available in the repository. The `Live_Weather_Dashboard.mp4` file shows the real-time operation of our prediction system and how it integrates data from various sources to provide accurate disaster predictions.
 
-[!Video demo]('')
+https://github.com/user-attachments/assets/c8cb67f8-4516-4329-bbaa-e9072a3faac1
 
 ## 🔍 Models Overview
 
